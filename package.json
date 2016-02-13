@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/saito400/reviews/issues"
   },
-  "homepage": "https://github.com/saito400/reviews"
+  "homepage": "https://github.com/saito400/reviews",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.2",
+    "webpack": "^1.12.13"
+  }
 }
