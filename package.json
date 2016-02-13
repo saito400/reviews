@@ -1,0 +1,22 @@
+{
+  "name": "reviews",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saito400/reviews.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saito400/reviews/issues"
+  },
+  "homepage": "https://github.com/saito400/reviews"
+}
