@@ -3,7 +3,7 @@ module.exports = {
     './frontend/javascripts/app.tsx'
   ],
   output: {
-    path: 'app/assets',
+    path: 'app/assets/javascripts',
     filename: 'bundle.js'
   },
   resolve: {
